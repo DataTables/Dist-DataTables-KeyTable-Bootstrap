@@ -5,7 +5,6 @@
     "files": [
         "css/keyTable.bootstrap.css"
     ],
-    "main": "./js/keyTable.bootstrap.js",
     "keywords": [
         "spreadsheet",
         "excel",
