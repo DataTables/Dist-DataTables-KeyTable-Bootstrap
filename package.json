@@ -1,7 +1,7 @@
 {
     "name": "datatables.net-keytable-bs",
     "version": "2.3.0",
-    "description": "KeyTable for DataTables with styling for [Bootstrap](http://getbootstrap.com/)",
+    "description": "KeyTable for DataTables with styling for [Bootstrap 3](http://getbootstrap.com/)",
     "files": [
         "css/keyTable.bootstrap.css"
     ],
