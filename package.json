@@ -3,7 +3,7 @@
     "version": "2.3.1",
     "description": "KeyTable for DataTables with styling for [Bootstrap 3](http://getbootstrap.com/)",
     "files": [
-        "css/keyTable.bootstrap.css"
+        "css/**/*.css"
     ],
     "style": "css/keyTable.bootstrap.css",
     "keywords": [
