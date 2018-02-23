@@ -3,7 +3,8 @@
     "version": "2.3.2",
     "description": "KeyTable for DataTables with styling for [Bootstrap 3](http://getbootstrap.com/)",
     "files": [
-        "css/**/*.css"
+        "css/**/*.css",
+        "js/**/*.js"
     ],
     "style": "css/keyTable.bootstrap.css",
     "keywords": [
@@ -30,5 +31,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/DataTables/Dist-DataTables-KeyTable-Bootstrap.git"
-    }
+    },
+    "main": "js/keyTable.bootstrap.js"
 }
