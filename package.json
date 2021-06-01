@@ -3,6 +3,7 @@
     "description": "KeyTable for DataTables with styling for [Bootstrap](https://getbootstrap.com/docs/3.3/)",
     "main": "js/keyTable.bootstrap.js",
     "style": "css/keyTable.bootstrap.css",
+    "types": "./types/keyTable.bootstrap.d.ts",
     "version": "2.6.1",
     "files": [
         "css/**/*.css",
