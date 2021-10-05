@@ -4,7 +4,7 @@
     "main": "js/keyTable.bootstrap.js",
     "style": "css/keyTable.bootstrap.css",
     "types": "./types/keyTable.bootstrap.d.ts",
-    "version": "2.6.3",
+    "version": "2.6.4",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -23,8 +23,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-keytable": ">=2.6.3",
-        "datatables.net-bs": ">=1.10.25",
+        "datatables.net-keytable": ">=2.6.4",
+        "datatables.net-bs": ">=1.11.3",
         "jquery": ">=1.7"
     },
     "moduleType": [
