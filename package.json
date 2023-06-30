@@ -4,7 +4,7 @@
     "main": "js/keyTable.bootstrap.js",
     "module": "js/keyTable.bootstrap.mjs",
     "style": "css/keyTable.bootstrap.css",
-    "types": "./types/types.d.ts",
+    "types": "./types/keyTable.bootstrap.d.ts",
     "version": "2.9.0",
     "files": [
         "css/**/*.css",
@@ -14,9 +14,9 @@
     ],
     "keywords": [
         "KeyTable",
-        "Excel",
-        "keyboard",
-        "Spreadsheet",
+ "Excel",
+ "keyboard",
+ "Spreadsheet",
         "Bootstrap",
         "Datatables",
         "jQuery",
@@ -25,8 +25,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-keytable": ">=2.7.0",
-        "datatables.net-bs": ">=1.12.1",
+        "datatables.net-keytable": ">=2.9.0",
+        "datatables.net-bs": ">=1.13.4",
         "jquery": ">=1.7"
     },
     "moduleType": [
